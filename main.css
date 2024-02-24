@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.start-body{
+    background-color: #ef5122;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.start-main{
+    margin: 10px;
+}
+.start-item{
+    margin: 10px;
+    list-style: none;
+    display: inline;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+}
+
